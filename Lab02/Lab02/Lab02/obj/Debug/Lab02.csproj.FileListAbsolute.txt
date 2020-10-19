@@ -1,0 +1,6 @@
+E:\OOP2_Labtask\Lab 2\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+E:\OOP2_Labtask\Lab 2\Lab02\Lab02\bin\Debug\Lab02.exe.config
+E:\OOP2_Labtask\Lab 2\Lab02\Lab02\bin\Debug\Lab02.exe
+E:\OOP2_Labtask\Lab 2\Lab02\Lab02\bin\Debug\Lab02.pdb
+E:\OOP2_Labtask\Lab 2\Lab02\Lab02\obj\Debug\Lab02.exe
+E:\OOP2_Labtask\Lab 2\Lab02\Lab02\obj\Debug\Lab02.pdb
