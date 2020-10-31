@@ -8,29 +8,29 @@ namespace Lab03
 {
     class Student
     {
-        string name;
-        string id;
-        string department;
-        float cgpa;
+        private string name;
+        private string id;
+        private string department;
+        private float cgpa;
 
-        public string name
+        public string Name
         {
             set { name = value; }
             get { return name; }
         }
-        public string id
+        public string Id
         {
             set { id = value; }
             get { return id; }
         }
 
-        public string department
+        public string Department
         {
             set { department = value; }
             get { return department; }
         }
 
-        public float cgpa
+        public float Cgpa
         {
             set { cgpa = value; }
             get { return cgpa; }

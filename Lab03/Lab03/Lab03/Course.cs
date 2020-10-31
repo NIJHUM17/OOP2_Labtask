@@ -8,28 +8,33 @@ namespace Lab03
 {
     class Course
     {
-        string courseName;
-        string courseCode;
-        int courseCredit;
+        private string courseName;
+        private string courseCode;
+        private int courseCredit;
 
-        public string courseName
+        public string CourseName
         {
             set { courseName = value; }
             get { return courseName; }
         }
 
-        public string courseCode
+        public string CourseCode
         {
             set { courseCode = value; }
             get { return courseCode; }
         }
 
-        public int courseCredit
+        public int CourseCredit
         {
             set { courseCredit = value; }
             get { return courseCredit; }
         }
 
-
+        public void ShowCourseInfo()
+        {
+            Console.WriteLine("Course Name   : " + courseName);
+            Console.WriteLine("Course Code   : " + courseCode);
+            Console.WriteLine("Course Credit : " + courseCredit);
+        }
     }
 }

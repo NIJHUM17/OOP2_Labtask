@@ -8,28 +8,56 @@ namespace Lab03
 {
     class Account
     {
-        string accName;
-        string acid;
-        int balance;
+        private string accName;
+        private string acid;
+        private int balance;
 
-        public string accaName
+        public string AccName
         {
-            set { accaName = value; }
-            get { return accaName; }
+            set { accName = value; }
+            get { return accName; }
         }
 
-        public string acid
+        public string Acid
         {
             set { acid = value; }
             get { return acid; }
         }
 
-        public int balance
+        public int Balance
         {
             set { balance = value; }
             get { return balance; }
         }
 
+        public int Deposit(int amount)
+        {
+            if (amount > 0)
+            {
+                Console.WriteLine("Deposited amount = " + amount);
+                balance += amount;
+                Console.WriteLine("New balance = " + balance);
+            }
+            else
+            {
+                Console.WriteLine("Error");
+            }
+            return amount;
+        }
 
+        public int Withdraw(int amount)
+        {
+            if (amount <= balance)
+            {
+                Console.WriteLine("Amount withdrawed = "+amount);
+                balance -= amount;
+                Console.WriteLine("New balance = " + balance);
+            }
+            else
+            {
+                Console.WriteLine("Not enough balance to withdraw");
+            }
+            return amount;
+        }
     }
 }

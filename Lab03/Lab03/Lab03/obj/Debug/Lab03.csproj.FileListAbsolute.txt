@@ -1,0 +1,7 @@
+E:\OOP2_Labtask\Lab03\Lab03\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+E:\OOP2_Labtask\Lab03\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+E:\OOP2_Labtask\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe.config
+E:\OOP2_Labtask\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe
+E:\OOP2_Labtask\Lab03\Lab03\Lab03\bin\Debug\Lab03.pdb
+E:\OOP2_Labtask\Lab03\Lab03\Lab03\obj\Debug\Lab03.exe
+E:\OOP2_Labtask\Lab03\Lab03\Lab03\obj\Debug\Lab03.pdb
