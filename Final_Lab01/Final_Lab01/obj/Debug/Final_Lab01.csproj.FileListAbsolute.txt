@@ -1,0 +1,7 @@
+F:\Programming\C#\Final_Lab01\Final_Lab01\bin\Debug\Final_Lab01.exe.config
+F:\Programming\C#\Final_Lab01\Final_Lab01\bin\Debug\Final_Lab01.exe
+F:\Programming\C#\Final_Lab01\Final_Lab01\bin\Debug\Final_Lab01.pdb
+F:\Programming\C#\Final_Lab01\Final_Lab01\obj\Debug\Final_Lab01.csprojAssemblyReference.cache
+F:\Programming\C#\Final_Lab01\Final_Lab01\obj\Debug\Final_Lab01.csproj.CoreCompileInputs.cache
+F:\Programming\C#\Final_Lab01\Final_Lab01\obj\Debug\Final_Lab01.exe
+F:\Programming\C#\Final_Lab01\Final_Lab01\obj\Debug\Final_Lab01.pdb
